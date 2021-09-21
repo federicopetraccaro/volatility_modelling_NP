@@ -10,6 +10,6 @@ The following files can be found:
 4) GARCH modelling is implemented
 5) the Model Confidence Set procedure is implemented
 
-- **Neural Processes implementation.ipynb**: contains NP implementation on SP500 data obtained in the R script above.
+- **Neural Processes implementation.ipynb**: contains NP implementation on SP500 data obtained in the R script above. Due to size limitations the notebook was uploaded to Google Colab and can be accessed via the following [link](https://link-url-here.org)
 - **sp500_marketcap.csv**: contains market capitalization of each stock in the index.
 
